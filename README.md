@@ -11,8 +11,4 @@
 ## Project
 1. WatchRabbit🥕
     - 당근마켓 감시 | "당근마켓" 시세 조회 사이트
-    - <I>Team Project / 3 Members / 당근이-조아 / 4 weeks</I></br></br>
-                            
-2. 개인 작품 전시 사이트🎨
-    - 작품 전시 사이트 | malo 작가님의 작품 전시 및 판매 사이트
-    - <I>Team Project / 2 Members / maloProject  / 22.08.06 ~ ing</I>
+    - <I>Team Project / 3 Members / 당근이-조아 / 4 weeks</I></br></br> 
