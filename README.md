@@ -11,7 +11,7 @@
 ## Project
 1. WatchRabbit🥕
     - 당근마켓 감시 | "당근마켓" 시세 조회 사이트
-    - <I>Team Project / 3 Members / 당근이-조아 / 4 weeks [리팩토링 중]</I></br></br> 
+    - <I>Team Project / 3 Members / 당근이-조아 / 4 weeks [리팩토링 중]</I>
     
 2. bookbooke 📚
     - 독서를 좋아하는 사람들의 공유 플랫폼
