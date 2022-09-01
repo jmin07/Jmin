@@ -11,4 +11,12 @@
 ## Project
 1. WatchRabbit🥕
     - 당근마켓 감시 | "당근마켓" 시세 조회 사이트
-    - <I>Team Project / 3 Members / 당근이-조아 / 4 weeks</I></br></br> 
+    - <I>Team Project / 3 Members / 당근이-조아 / 4 weeks [리팩토링 중]</I></br></br> 
+    
+2. bookbooke 📚
+    - 독서를 좋아하는 사람들의 공유 플랫폼
+    -  <I>Team Project / 3 Members / 곽곽이와 mz들 / ~ing [진행 중] </I>
+    
+3. UrlShortner 🌐
+    - 긴 URL을 공유하기 좋게 짧은 URL 로 변경해주는 서비스
+    - <I>Personal Project / 1 Memeber / 미지정 / ~ing [진행 중] </I>
