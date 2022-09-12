@@ -16,3 +16,6 @@
 2. UrlShortner 🌐
     - 긴 URL을 공유하기 좋게 짧은 URL 로 변경해주는 서비스
     - <I>[Personal Project] / 1 Memeber / 미지정 / 2022.09.01 ~ing </I>
+    
+## Blog 
+- [JmBlog | 기억보다는 기록 📝](https://jm-baek.tistory.com/)
