@@ -13,9 +13,7 @@
     - 당근마켓 감시 | "당근마켓" 시세 조회 사이트
     - <I>[Team Project] / 2 Members / 당근이-조아 / 2022.07-2022.08 / ~refactoring </I>
     
-2. UrlShortner 🌐
-    - 긴 URL을 공유하기 좋게 짧은 URL 로 변경해주는 서비스
-    - <I>[Personal Project] / 1 Memeber / 미지정 / 2022.09.01 ~ing </I>
+2. homeless 🌐
     
 ## Blog 
 - [JmBlog | 기억보다는 기록 📝](https://jm-baek.tistory.com/)
