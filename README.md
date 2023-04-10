@@ -8,4 +8,4 @@
 - DataBase: postgresql <br>
 
 ## 📚 Blog 
-- [My Develop Records 📝](https://codemonster.oopy.io)
+- [My Develop Records 📝](https://jm-baek.tistory.com/)
