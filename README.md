@@ -4,8 +4,8 @@
 
 ## 👊 Interesting
 - Language: JAVA, Python<br>
-- Framework: Spring, SpringBoot<br>
-- DataBase: postgresql <br>
+- Framework: Spring, SpringBoot, Tensorflow<br>
+- DataBase: postgresql, oracle <br>
 
 ## 📚 Blog 
 - [My Develop Records 📝](https://jm-baek.tistory.com/)
