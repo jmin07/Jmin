@@ -4,7 +4,7 @@
 
 ## 👊 Interesting
 - Language: JAVA, Python<br>
-- Framework: SpringBoot, Tensorflow<br>
+- Framework: Spring, SpringBoot, Tensorflow<br>
 
 ## 📚 Blog 
 - [My Develop Records 📝](https://jm-baek.tistory.com/)
