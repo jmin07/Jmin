@@ -7,5 +7,3 @@ I hope my GitHub will help you.
 ### Computer Vision
 - Language: Python
 - Framework: Tensorflow, Keras
-## 📚 Blog 
-- [My Develop Records 📝](https://jm-baek.tistory.com/)
