@@ -5,6 +5,7 @@
 ## 👊 Interesting
 - Language: JAVA, Python<br>
 - Framework: Spring, SpringBoot, Tensorflow<br>
+- Domain: Web, Computer Vision
 
 ## 📚 Blog 
 - [My Develop Records 📝](https://jm-baek.tistory.com/)
